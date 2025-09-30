@@ -14,19 +14,19 @@ The following links are additional resources for the investigation of short-term
 Societies
 ---------
 
-The [Cognitive Science Society](http://www.cognitivesciencesociety.org/) has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
+The {{% resource_link "2184497a-f49c-4ecb-adc3-b1354f9a1e67" "Cognitive Science Society" %}} has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
 
-[American Psychological Society](http://www.psychologicalscience.org/)
+{{% resource_link "7a7584d2-4d15-465f-b6ff-05574f00d32e" "American Psychological Society" %}}
 
-[Organization for Human Brain Mapping](http://www.humanbrainmapping.org/)
+{{% resource_link "c6e6c927-1b17-4e19-a539-ab8419c8dc92" "Organization for Human Brain Mapping" %}}
 
-The [Psychonomic Society](http://www.psychonomic.org/) promotes the communication of scientific research in psychology and allied sciences.
+The {{% resource_link "f523b0e2-63d0-4b84-82e1-0a6c0cb5acd2" "Psychonomic Society" %}} promotes the communication of scientific research in psychology and allied sciences.
 
-[Society for Neuroscience](http://www.sfn.org/)
+{{% resource_link "e0edbfab-9bd1-4929-b86a-80389004f48b" "Society for Neuroscience" %}}
 
 Online References
 -----------------
 
-[The Human Brain](http://www.vh.org/Providers/Textbooks/BrainAnatomy/BrainAnatomy.html) is an online virtual hospital site hosted by the University of Iowa that provides a stunning array of images of the human central nervous system from infants to adult.
+{{% resource_link "e0f54a32-c6e2-47ef-8092-fff81df2b03c" "The Human Brain" %}} is an online virtual hospital site hosted by the University of Iowa that provides a stunning array of images of the human central nervous system from infants to adult.
 
-[The Whole Brain](http://www.med.harvard.edu/AANLIB/home.html) atlas is a site that is hosted by the Harvard medical school which displays pictures from MRI to fMRI in various disease states.
+{{% resource_link "ca8d9f4e-c398-4836-afa4-4d3b7389c966" "The Whole Brain" %}} atlas is a site that is hosted by the Harvard medical school which displays pictures from MRI to fMRI in various disease states.
